@@ -12,9 +12,11 @@ This repository contains a curated portfolio of projects completed during my int
 ---
 
 ## Project 1: Apple HBR Report
-**File:** `Project 1 - Apple AI RAG - Jason McGinty.ipynb`
+**File:** `Available upon request.`
 
 An in-depth business and technical analysis based on a Harvard Business Review case study of Apple. This project synthesizes strategic insights, market analysis, and the application of technology within a leading corporate framework.
+
+Note: Available upon request.
 
 ---
 
